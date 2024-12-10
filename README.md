@@ -6,4 +6,4 @@ Install via:
 change domains in static and in cfg.py
 
 
-Its own crutch system of authorization and sessions, mail confirm system.
+Its own crutch system of authorization and sessions, mail confirm system. Account activation via telegram

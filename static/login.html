@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Войти в чат</title>
+    <link rel="stylesheet" href="./static/style/login.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css">
+
+</head>
+<body>
+    <div class="box">
+        <div class="container">
+            <div class="top-header">
+                <header>Войти</header>
+            </div>
+            <div id="alert">
+                <p id="alert_msg">dsfsfsfsfsfsfsfsfsfsfsf</p>
+                <button id="close" onclick="document.getElementById('alert').removeAttribute('style')"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);"><path d="m16.192 6.344-4.243 4.242-4.242-4.242-1.414 1.414L10.535 12l-4.242 4.242 1.414 1.414 4.242-4.242 4.243 4.242 1.414-1.414L13.364 12l4.242-4.242z"></path></svg></button>
+            </div>
+            <div class="input-field">
+                <input class="input" type="login" placeholder="Логин" required>
+                <i class="bx bx-user" style="width: 7px;"></i>
+            </div>
+            <div class="input-field">
+                <input class="input" type="password" placeholder="Пароль" required>
+                <i class="bx bx-lock-alt" style="width: 7px;"></i>
+            </div>
+            <div class="input-field">
+                <input type="submit" class="submit" value="Войти">
+            </div>
+        </div>
+    </div>
+    <script src="https://yastatic.net/jquery/3.3.1/jquery.min.js"></script>
+    <script src="./static/js/login.js"></script>
+</body>
+</html>

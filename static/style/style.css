@@ -1,0 +1,169 @@
+body {
+    background-color: rgb(203, 218, 231);
+}
+header {
+    background-color: #4a614d;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+#messages {
+    height: 83vh;
+    overflow: auto;
+}
+.msg {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: cadetblue;
+    border-radius: 15px 15px 15px 0px;
+    width: fit-content;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    max-width: 80%
+}
+.my {
+    margin-left: auto;
+    margin-right: 0px;
+    border-radius: 15px 15px 0px 15px;
+}
+.bobic{
+    
+}
+.msg_text_p {
+    padding: 0px 20px 0px 20px;
+    white-space: pre-wrap;
+}
+.ico_con {
+    align-self: flex-start;
+    align-items: flex-start;
+}
+#input_msg {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#message_text {
+    width: 80%;
+    min-height: 20px;
+    font-size: 20px;
+    background-color: rgb(138, 118, 161);
+    border-radius: 15px;
+    padding-left: 10px;
+    border: 1px solid transparent;
+}
+#submit {
+    margin-left: 10px;
+    background-color: rgba(0, 255, 255, 0.295);
+    border-radius: 15px;
+    font-size: 25px;
+    border: 1px solid transparent;
+    display: flex;
+
+}
+#no_msg {
+    text-align: center;
+    align-self: center;
+    font-size: 25px;
+    color: gray;
+}
+.button {
+    background-color: #303033;
+    color: #ffe1db;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+.button:hover {
+    background-color: #e5e5e7;
+    color: #000;
+    border-color: #4a614d;
+}
+
+/* Шапка */
+.container{
+    display: flex;
+    align-items: center;
+}
+.online{
+    display: flex;
+    align-items: center;
+    color: rgb(0 255 255 / 87%);
+    white-space: pre;
+}
+#online{
+    display: flex;
+    align-items: center;
+}
+.me{
+    margin-right: 10px;
+    color: rgb(0 255 255 / 87%);
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.logo {
+    border-radius: 150px;
+    background-color: aquamarine;
+    width: 35px;
+    height: 35px;
+    color: transparent;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#logout {
+    height: fit-content;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+
+/* Цвет плейсхолдера */
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    rgb(0, 0, 0);
+    font-weight: 400;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    rgb(0, 0, 0);
+   font-weight: 300;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    rgb(0, 0, 0);
+   font-weight: 300;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    rgb(0, 0, 0);
+   font-weight: 300;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    rgb(0, 0, 0);
+   font-weight: 300;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+   color:    rgb(0, 0, 0);
+   font-weight: bold;
+}
+
+/* Оформление скроллбара */
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 15px;
+}
+::-webkit-scrollbar-track {
+    background-color: rgb(150, 205, 221);
+    border-radius: 15px;
+}
+::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 10px rgb(122, 184, 64);
+    border-radius: 15px;
+}

@@ -1,0 +1,99 @@
+2024-03-28 19:40:41.150 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:40:55.980 | ERROR    | database:add_user:118 - отношение "users" не существует
+2024-03-28 19:41:34.736 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:41:37.862 | ERROR    | database:add_user:118 - INSERT содержит больше выражений, чем целевых столбцов
+2024-03-28 19:42:04.974 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:42:44.494 | ERROR    | database:edit_user:141 - ошибка синтаксиса (примерное положение: "$1")
+2024-03-28 19:43:38.816 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:43:42.402 | ERROR    | database:edit_user:141 - ошибка синтаксиса (примерное положение: "$1")
+2024-03-28 19:43:42.403 | ERROR    | database:edit_user:141 - ошибка синтаксиса (примерное положение: "$1")
+2024-03-28 19:45:38.366 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:45:53.096 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:46:07.525 | ERROR    | database:edit_user:142 - invalid input for query argument $2: '388705864' (an integer is required (got type str))
+2024-03-28 19:46:07.525 | ERROR    | database:edit_user:142 - invalid input for query argument $2: '388705864' (an integer is required (got type str))
+2024-03-28 19:46:46.068 | INFO     | __main__:start_db:151 - Started!
+2024-03-28 19:47:08.288 | INFO     | __main__:start_db:151 - Started!
+2024-04-07 15:21:26.105 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:21:57.932 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:22:42.299 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:23:20.446 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:23:23.312 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:24:41.544 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:24:50.862 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:25:20.757 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:25:28.512 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:25:32.868 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:25:58.798 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:28:09.124 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:28:22.271 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:31:12.970 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 15:32:31.882 | INFO     | __main__:start_db:164 - Started!
+2024-04-07 16:55:55.482 | INFO     | __main__:start_db:214 - Started!
+2024-04-07 16:57:30.861 | ERROR    | __main__:accept:182 - load_start_kb() missing 1 required positional argument: 'user'
+2024-04-07 16:59:00.701 | INFO     | __main__:start_db:215 - Started!
+2024-04-07 16:59:19.644 | ERROR    | database:get_user:204 - invalid input for query argument $1: '388705864' (an integer is required (got type str))
+2024-04-07 16:59:19.645 | ERROR    | __main__:accept:183 - 'NoneType' object is not subscriptable
+2024-04-07 16:59:58.892 | INFO     | __main__:start_db:215 - Started!
+2024-04-07 17:03:00.040 | INFO     | __main__:start_db:217 - Started!
+2024-04-07 17:05:33.819 | INFO     | __main__:start_db:222 - Started!
+2024-04-07 17:08:41.354 | INFO     | __main__:start_db:222 - Started!
+2024-04-07 17:09:04.477 | INFO     | __main__:start_db:222 - Started!
+2024-04-07 17:09:34.472 | INFO     | __main__:start_db:222 - Started!
+2024-04-07 17:10:32.120 | INFO     | __main__:start_db:222 - Started!
+2024-04-07 17:10:52.362 | INFO     | __main__:start_db:222 - Started!
+2024-04-07 17:27:32.176 | INFO     | __main__:start_db:260 - Started!
+2024-04-07 17:27:54.667 | INFO     | __main__:start_db:260 - Started!
+2024-04-07 17:29:22.078 | ERROR    | __main__:accept:185 - Object of type function is not JSON serializable
+2024-04-07 17:31:30.285 | INFO     | __main__:start_db:262 - Started!
+2024-04-07 17:33:07.261 | INFO     | __main__:start_db:264 - Started!
+2024-04-07 17:33:52.403 | INFO     | __main__:start_db:259 - Started!
+2024-04-07 17:36:31.837 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 17:38:18.551 | INFO     | __main__:start_db:257 - Started!
+2024-04-07 17:39:51.532 | INFO     | __main__:start_db:257 - Started!
+2024-04-07 17:42:22.681 | INFO     | __main__:start_db:257 - Started!
+2024-04-07 17:42:56.825 | INFO     | __main__:start_db:261 - Started!
+2024-04-07 17:44:16.742 | INFO     | __main__:start_db:261 - Started!
+2024-04-07 17:45:07.805 | INFO     | __main__:start_db:255 - Started!
+2024-04-07 17:48:32.121 | INFO     | __main__:start_db:255 - Started!
+2024-04-07 17:51:23.662 | INFO     | __main__:start_db:255 - Started!
+2024-04-07 17:52:35.606 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 17:54:55.818 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 17:55:33.129 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 17:55:51.953 | ERROR    | database:create_uchetka:117 - повторяющееся значение ключа нарушает ограничение уникальности "site_users_pkey"
+DETAIL:  Ключ "(site_user_id)=(1)" уже существует.
+2024-04-07 17:57:10.281 | INFO     | __main__:start_db:255 - Started!
+2024-04-07 17:58:12.092 | INFO     | __main__:start_db:255 - Started!
+2024-04-07 17:59:21.388 | INFO     | __main__:start_db:255 - Started!
+2024-04-07 18:01:04.885 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 18:57:09.693 | INFO     | __main__:start_db:257 - Started!
+2024-04-07 18:58:39.845 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 18:59:31.106 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 18:59:53.308 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 19:00:06.962 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 19:00:22.808 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 19:02:41.525 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 19:08:21.485 | INFO     | __main__:start_db:260 - Started!
+2024-04-07 19:10:12.233 | INFO     | __main__:start_db:264 - Started!
+2024-04-07 19:10:50.026 | INFO     | __main__:start_db:264 - Started!
+2024-04-07 19:19:03.861 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:20:26.370 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:22:06.060 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:23:00.329 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:24:03.674 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:24:35.444 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:25:19.852 | INFO     | __main__:start_db:265 - Started!
+2024-04-07 19:50:06.841 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 19:52:38.290 | INFO     | __main__:start_db:257 - Started!
+2024-04-07 19:55:47.741 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 19:56:43.106 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 19:59:24.174 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 20:00:22.035 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 20:00:32.697 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 20:00:44.592 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 20:00:54.135 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 20:03:22.360 | INFO     | __main__:start_db:258 - Started!
+2024-04-07 20:20:49.338 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 20:21:30.319 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 20:22:15.389 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 20:23:29.844 | INFO     | __main__:start_db:256 - Started!
+2024-04-07 20:42:22.188 | INFO     | __main__:start_db:255 - Started!

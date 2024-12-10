@@ -6,4 +6,4 @@ Install via:
 change domains in static and in cfg.py
 
 
-Its own crutch system of authorization and sessions
+Its own crutch system of authorization and sessions, mail confirm system.
